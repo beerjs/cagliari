@@ -6,7 +6,7 @@ If you:
 
 * Work with JavaScript or related technologies
 * Want to get in touch with developers like you
-* Happen to be in Cagliari, IT every once in a while
+* Happen to be in Cagliari, Sardinia, Italy every once in a while
 
 Then we think you should join us. Come have a beer and a chat!
 
