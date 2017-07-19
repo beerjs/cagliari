@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "title": "BeerJS Cagliari #1",
+  "description": "Primo evento BeerJS Cagliari, brindiamo al codice.",
+  "start_time": "2017-08-02T17:00:00.000Z",
+  "end_time": "2017-08-02T19:00:00.000Z",
+  "place": {
+    "location": {
+      "lat": 39.2175991,
+      "lng": 9.112219399999999
+    },
+    "name": "Old Square",
+    "place_id": "ChIJxdXXmgY05xIR3HCW2Ulp174",
+    "vicinity": "Corso Vittorio Emanuele II, 44, Cagliari"
+  }
+}
